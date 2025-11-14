@@ -1,0 +1,23 @@
+seetaface-boxes (1.0.0.1-2deepin1) unstable; urgency=medium
+
+  * Normalize ver2 (XdeepinY).
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Tue, 27 Aug 2024 16:05:46 +0800
+
+seetaface-boxes (1.0.0.1-2deepin) unstable; urgency=medium
+
+  * update
+
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 17:21:12 +0800
+
+seetaface-boxes (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix build issue
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 19:49:23 +0800
+
+seetaface-boxes (1.0.0-1) unstable; urgency=medium
+
+  * Initial release 
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
